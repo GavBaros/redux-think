@@ -1,0 +1,24 @@
+#root {
+  height: 100vh;
+  padding: 5%;
+}
+
+.button {
+  z-index: 1;
+  position: relative;
+}
+
+body {
+  background-color: #1b1b1b !important;
+}
+
+img {
+  margin-top: 40vh;
+  width: 100px;
+  height: 100px;
+  transition: 1s;
+}
+
+span h1 {
+  font-size: 1em;
+}
